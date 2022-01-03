@@ -3,3 +3,5 @@
 * Linear Regression with Multi variables
 * Logistic Regression 
 * Decision Tree
+* SVM
+
